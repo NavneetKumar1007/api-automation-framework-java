@@ -166,3 +166,9 @@ Java Faker
 dotenv (optional)
 
 And Maven Surefire plugin for running TestNG.
+
+## 📸 Framework Overview
+
+Below is a screenshot of the project structure / test report:
+
+![Project Screenshot](assets/Screenshot 2025-12-08 at 9.48.15 PM.png)
