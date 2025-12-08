@@ -168,6 +168,8 @@ dotenv (optional)
 And Maven Surefire plugin for running TestNG.
 
 
-Below is a screenshot of the project structure / test report:
+Below is a screenshot of the project structure/test report:
 
-![Project Screenshot](assets/Screenshot\ 2025-12-08\ at\ 9.48.15 PM.png)
+![Project Screenshot](assets/Screenshot%202025-12-08%20at%209.48.15%E2%80%AFPM.png)
+
+
