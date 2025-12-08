@@ -1,0 +1,30 @@
+# Maven target directory
+target/
+allure-results/
+allure-report/
+allure-history/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+
+# Environment files
+.env
+*.yaml~
+*.json~
+
+# Compiled classes
+*.class
+
+# Backup files
+*.bak
+
