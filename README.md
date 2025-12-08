@@ -21,6 +21,7 @@ Faker Data Generator
 This framework mirrors your Python + Pytest + Allure version — but fully implemented in Java, using industry-standard best practices.
 
 📁 Project Structure
+```
 api-automation-framework-java/
 │
 ├── pom.xml
@@ -59,7 +60,7 @@ api-automation-framework-java/
     ├── test-classes
     ├── surefire-reports
     └── allure-results (created automatically after test run)
-
+```
 🔧 Features
 ✔ Modular & Reusable HTTP Client
 
