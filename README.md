@@ -70,18 +70,18 @@ Injects base URL + token
 
 Attaches logs and Allure filters automatically
 
-✔ TestNG + Allure Reporting
+TestNG + Allure Reporting
 
 Automatically generates report in target/allure-results/
 
 Run mvn allure:serve to view report
 
-✔ YAML-Based Config
+YAML-Based Config
 
 The config.yaml file contains:
 
 baseUrl: "https://gorest.co.in/public/v2"
-token: "your_api_token_here"
+token: "xyz..."
 
 ✔ JSON Schema Validation
 
