@@ -1,4 +1,4 @@
-🚀 API Automation Framework (Java + TestNG + RestAssured + Allure)
+API Automation Framework (Java + TestNG + RestAssured + Allure)
 
 A clean, modular, production-ready API Automation Framework built using:
 
@@ -17,8 +17,6 @@ Reusable API Client Layer
 Schema Validation
 
 Faker Data Generator
-
-This framework mirrors your Python + Pytest + Allure version — but fully implemented in Java, using industry-standard best practices.
 
 📁 Project Structure
 ```
@@ -73,8 +71,6 @@ Injects base URL + token
 Attaches logs and Allure filters automatically
 
 ✔ TestNG + Allure Reporting
-
-No need to add Allure annotations
 
 Automatically generates report in target/allure-results/
 
